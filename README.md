@@ -10,10 +10,16 @@ I will talk about how to create a birthday gift using Arduino. So If you want to
 7. Slide Switch x1
 
 When you upload the code, follow this video because our project hasn't external crystal or other components.
+
 Link 🔗: https://www.youtube.com/watch?v=fzZ2TR_mwgs&t=1237s
 
 And when you create a bitmap, use this website and import your 128px*64px image. Then you can Generate your image bitmap Arduino code.
+
 Link 🔗: https://javl.github.io/image2cpp/
+
+And Subscribe to Arduino classroom Channel this tutorial is given within the Arduino classroom channel.
+
+Link 🔗: www.youtube.com/Arduinoclassroom
 
 Circuit Diagram:
 ![WhatsApp Image 2023-07-25 at 20 13 35](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/06a033c2-1f2b-4769-8c3c-7d76d013de14)

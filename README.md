@@ -30,3 +30,7 @@ Project Images:
 ![WhatsApp Image 2023-07-25 at 20 32 34](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/c7097eb7-e39b-4302-bb2e-671045ee30cb)
 ![WhatsApp Image 2023-07-25 at 20 32 36](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/bf82d039-eb0d-40ba-afeb-1abb5e549871)
 ![WhatsApp Image 2023-07-25 at 20 32 365](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/6802c71f-0fd5-47b6-8d62-8f81e7baacbb)
+![6B608A3F-8582-4129-8A2C-32C1BA90B021](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/7e96b595-7c6e-4e49-8cdc-01f3851cec43)
+![01630DE3-B62C-4C0F-8EBF-2947D3D4D62F](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/52ec6795-38d1-4b5e-a999-c50a4c9e5799)
+![1E6FEA52-3E9E-4E51-BCA0-8196832F35C7](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/5c6b6a59-63da-426a-86fc-1b3290a55ee3)
+![5ADC8E60-180C-4EE6-A0FC-2591202ACF11](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/43f94017-61a2-41b5-9485-d50160fe014a)

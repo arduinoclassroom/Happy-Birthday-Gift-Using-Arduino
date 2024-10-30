@@ -4,12 +4,13 @@ I will talk about how to create a birthday gift using Arduino. So If you want to
 1. ATMEGA328P Microcontroller x1
 2. 5v Passive Buzzer x1
 3. Copper Wires
-4. 10uf Capacitors x2
+4. 10uf Electrolytic Capacitors x2
 5. AMS1117 5v Regulators x1
 6. 3.0v Cell Batteries with holders x4
 7. Slide Switch x1
+8. SSD1306 0.96 OLED Display x1
 
-When you upload the code, follow this video because our project hasn't external crystal or other components.
+When you upload the code, follow this video because our project doesn't have external crystal or other components.
 
 Link 🔗: https://www.youtube.com/watch?v=fzZ2TR_mwgs&t=1237s
 
@@ -17,7 +18,7 @@ And when you create a bitmap, use this website and import your 128px*64px image.
 
 Link 🔗: https://javl.github.io/image2cpp/
 
-And Subscribe to Arduino classroom Channel this tutorial is given within the Arduino classroom channel.
+And Subscribe to the Arduino classroom Channel this tutorial is given within the Arduino classroom channel.
 
 Link 🔗: www.youtube.com/Arduinoclassroom
 

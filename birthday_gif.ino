@@ -4,11 +4,11 @@
 Adafruit_SSD1306 display(128, 64, &Wire, -1);
 
 const unsigned char Welcome_Screen[] PROGMEM = {
-  //Past your bitmap here
+  //Paste your bitmap here
 };
 
 const unsigned char First_img[] PROGMEM = {
-  //Past your bitmap here
+  //Paste your bitmap here
 };
 
 const unsigned char Second_img[] PROGMEM = {
@@ -16,27 +16,27 @@ const unsigned char Second_img[] PROGMEM = {
 };
 
 const unsigned char Third_img[] PROGMEM = {
-  //Past your bitmap here
+  //Paste your bitmap here
 };
 
 const unsigned char Fourth_img[] PROGMEM = {
-  //Past your bitmap here
+  //Paste your bitmap here
 };
 
 const unsigned char Fifth_img[] PROGMEM = {
-  //Past your bitmap here
+  //Paste your bitmap here
 };
 
 const unsigned char Sixth_img[] PROGMEM = {
-  //Past your bitmap here
+  //Paste your bitmap here
 };
 
 const unsigned char Seventh_img[] PROGMEM = {
-	//Past your bitmap here
+	//Paste your bitmap here
 };
 
 const unsigned char Last_img[] PROGMEM = {
-	//Past your bitmap here
+	//Paste your bitmap here
 };
 
 unsigned const int notes[] = {

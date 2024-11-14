@@ -35,3 +35,7 @@ Project Images:
 ![01630DE3-B62C-4C0F-8EBF-2947D3D4D62F](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/52ec6795-38d1-4b5e-a999-c50a4c9e5799)
 ![1E6FEA52-3E9E-4E51-BCA0-8196832F35C7](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/5c6b6a59-63da-426a-86fc-1b3290a55ee3)
 ![5ADC8E60-180C-4EE6-A0FC-2591202ACF11](https://github.com/arduinoclassroom/Happy-Birthday-Gift-Using-Arduino/assets/92985498/43f94017-61a2-41b5-9485-d50160fe014a)
+
+![cartoon-character-generated-by-Fotor-ai-art-creator (1)](https://github.com/user-attachments/assets/bc8bc842-4a95-41a6-a90a-ada674619a3c)
+![176 (1)](https://github.com/user-attachments/assets/3a7c401b-d35b-4cdf-a162-fb92dea68307)
+
